@@ -1,0 +1,2 @@
+FizzBuzz
+Print square
